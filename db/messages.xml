@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <deadline>240</deadline>
+        <shutdown>1</shutdown>
+        <text>Aggro Pistol PVP will restart in #tmin minutes.</text>
+    </message>
+	<message>
+        <repeat>6</repeat>
+        <text>Loot, kill, die, repeat.</text>
+    </message>
+    <message>
+        <repeat>12</repeat>
+        <text>Killfeed in discord.gg/zSpZdVJsz5</text>
+    </message>
+    <message>
+        <repeat>18</repeat>
+        <text>Don't cut up bodies, it causes lag.</text>
+    </message>
+    <message>
+        <repeat>20</repeat>
+        <text>The best way to keep a server active, is by playing on it discord.gg/zSpZdVJsz5</text>
+    </message>
+</messages>

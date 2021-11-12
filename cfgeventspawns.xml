@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<eventposdef>
+	<event name="VehicleCivilianSedan">
+		<pos x="12071.933594" z="9129.989258" a="317.953339" />
+	</event>
+	<event name="StaticLootPile1">
+        <pos x="2100.80" z="3291.91" a="1" />  <!--LootPile-->
+	</event>
+	<event name="StaticLootPile2">
+        <pos x="2174.20" z="3380.86" a="150" />  <!--LootPile-->
+	</event>
+	<event name="StaticLootPile3">
+        <pos x="2083.79" z="3484.89" a="1" />  <!--LootPile-->
+	</event>
+	<event name="StaticLootPile4">
+        <pos x="2174.20" z="3279.75" a="140" />  <!--LootPile-->
+	</event>
+	<event name="VehicleSedan02" />
+	<event name="VehicleHatchback02" />
+    <event name="StaticHeliCrash" />
+	<event name="StaticChristmasTree" />
+    <event name="StaticBonfire" />
+    <event name="StaticContaminatedArea" />
+    <event name="Loot" />
+    <event name="VehicleOffroadHatchback"/>
+    <event name="StaticPoliceCar" />
+	<event name="ItemPlanks" />
+    <event name="VehicleTruck01" />
+    <event name="VehicleTransitBus" />
+    <event name="InfectedVillage" />
+    <event name="InfectedSolitude" />
+    <event name="InfectedArmy" />
+    <event name="InfectedCity" />
+    <event name="InfectedMedic" />
+    <event name="InfectedPolice" />
+    <event name="InfectedFirefighter" />
+    <event name="InfectedPrisoner" />
+    <event name="AnimalDeer" />
+    <event name="AnimalCow" />
+    <event name="AnimalSheep" />
+    <event name="AnimalRoeDeer" />
+    <event name="AnimalWolf" />
+    <event name="AnimalWildBoar" />
+</eventposdef>
